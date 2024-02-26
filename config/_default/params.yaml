@@ -47,7 +47,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Callysto'
+    notice: '© {year} My Company'
 
 # Localization
 locale:

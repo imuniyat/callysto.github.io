@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Building tomorrow's digital leaders
+      title: Build Your Landing Pages with Hugo Blox
       text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
       primary_action:
         text: Get Started
