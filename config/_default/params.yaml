@@ -36,7 +36,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "Callysto Horizontal Logo Dark white background_Callysto_Hor_Colour_Callysto_Hor_Colour.png"
     button:
       enable: true
       text: "Get Started"
