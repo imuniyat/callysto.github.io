@@ -3,13 +3,13 @@
 #   The `weight` parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: About
     url: /#top
     weight: 10
-  - name: Features
+  - name: Resources
     url: /#features
     weight: 20
-  - name: Solutions
+  - name: Contact
     url: /#solutions
     weight: 30
   - name: Resources
