@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Building tomorrow's digital leaders
+      text: Free data science resources for K-12 teachers and students
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
