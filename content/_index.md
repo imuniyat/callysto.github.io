@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: Building tomorrow's digital leaders
-      text: Free learning resources for K-12 teachers and students
+      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
