@@ -94,7 +94,7 @@ sections:
           image: build-website.png
           button:
             text: Check out data viz
-            url: /assets/Data viz files/Weekly Data Visualization – Callysto.html
+            url: https://www.callysto.ca
         - title: Large Community
           text: Join our large community on Discord - ask questions and get live responses
           feature_icon: bolt
