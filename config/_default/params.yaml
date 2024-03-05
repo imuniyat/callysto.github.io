@@ -37,10 +37,10 @@ header:
       text: ""
       # Logo filename in `assets/media/` folder
       filename: "Callysto Horizontal Logo Dark white background_Callysto_Hor_Colour_Callysto_Hor_Colour.png"
-    button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+    # button:
+    #   enable: true
+    #   text: "Get Started"
+    #   url: "https://hugoblox.com/templates/"
     show_search: true
     show_theme_chooser: true
 

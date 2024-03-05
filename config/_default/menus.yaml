@@ -6,15 +6,15 @@ main:
   - name: About
     url: /#top
     weight: 10
-  - name: Resources
+  - name: Teacher Resources
     url: /#features
     weight: 20
   - name: Contact
     url: /#solutions
     weight: 30
-  - name: Resources
-    weight: 40
-    hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+  # - name: Resources
+  #   weight: 40
+  #   hasChildren: true
+  # - parent: Resources
+  #   name: Blog
+  #   url: blog/

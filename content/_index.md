@@ -12,13 +12,13 @@ sections:
     content:
       title: Building tomorrow's digital leaders
       text: Free data science resources for K-12 teachers and students
-      primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-        icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
+      # primary_action:
+      #   text: Get Started
+      #   url: https://hugoblox.com/templates/
+      #   icon: rocket-launch
+      # secondary_action:
+      #   text: Read the docs
+      #   url: https://docs.hugoblox.com
       #announcement:
       #  text: "Announcing the release of version 1."
       #  link:
