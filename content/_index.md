@@ -66,7 +66,7 @@ sections:
         - block: buttons
             content:
             buttons:
-            - title: Read my latest paper on LLMs
+            - title: Go to data viz
               icon: bolt
               url: https://arxiv.org/abs/2304.01852
         - name: Fast
