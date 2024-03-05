@@ -1,5 +1,5 @@
 ---
-title: 🎉 Lesson plans
+title: Lesson plans
 summary: Below are lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks.
 
 date: 2023-10-27
