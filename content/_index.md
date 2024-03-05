@@ -63,10 +63,12 @@ sections:
       items:
         - name: Data visualizations
           description: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
-          primary_action:
-                  text: Get Started
-                  url: https://hugoblox.com/templates/
-                  icon: rocket-launch
+        - block: buttons
+            content:
+            buttons:
+            - title: Read my latest paper on LLMs
+              icon: brands/arxiv
+              url: https://arxiv.org/abs/2304.01852
         - name: Fast
           icon: bolt
           url: https://hugoblox.com/templates/
