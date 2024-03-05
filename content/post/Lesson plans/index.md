@@ -1,13 +1,13 @@
 ---
 title: 🎉 Lesson plans
-summary: blah
+summary: Below are lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks.
 
 date: 2023-10-27
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
 authors:
   - admin
@@ -19,7 +19,10 @@ tags:
   - Markdown
 ---
 
-Welcome 👋
+For each problem, there are three resources:
+- Teacher lesson plan (how to introduce and teach the problem)
+- Teacher Jupyter notebook (including instructions)
+- Student Jupyter notebook
 
 ## Overview
 
