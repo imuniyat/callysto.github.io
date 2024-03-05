@@ -68,6 +68,7 @@ sections:
             url: https://hugoblox.com/templates/
         - name: Fast
           icon: bolt
+          url: https://hugoblox.com/templates/
           description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
         - name: Easy
           icon: sparkles
