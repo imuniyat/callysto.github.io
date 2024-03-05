@@ -58,6 +58,9 @@ sections:
   - block: features
     id: features
     content:
+      button:
+        text: Get Started
+        url: https://hugoblox.com/templates/
       title: Teacher resources
       text: Data science resources for classroom
       items:
@@ -68,7 +71,6 @@ sections:
             url: https://hugoblox.com/templates/
         - name: Fast
           icon: bolt
-          url: https://hugoblox.com/templates/
           description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
         - name: Easy
           icon: sparkles
