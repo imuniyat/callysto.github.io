@@ -94,7 +94,7 @@ sections:
           image: build-website.png
           button:
             text: Check out data viz
-            url: https://www.callysto.ca
+            filename: govt_funding.html
         - title: Large Community
           text: Join our large community on Discord - ask questions and get live responses
           feature_icon: bolt
