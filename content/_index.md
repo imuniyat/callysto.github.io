@@ -94,8 +94,7 @@ sections:
           image: build-website.png
           button:
             text: Check out data viz
-            [Check out](<../assets/media/Data viz files/govt_funding.html>)
-            #{{% link [<url>](<../assets/media/Data viz files/govt_funding.html>) %}}Some Text{{% /link %}}
+            {{% link <../assets/media/Data viz files/govt_funding.html> %}}Some Text{{% /link %}}
             #url: govt_funding.html
         - title: Large Community
           text: Join our large community on Discord - ask questions and get live responses
