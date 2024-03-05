@@ -19,7 +19,7 @@ tags:
   - Markdown
 ---
 
-For each problem, there are three resources:
+Below are lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources:
 - Teacher lesson plan (how to introduce and teach the problem)
 - Teacher Jupyter notebook (including instructions)
 - Student Jupyter notebook
