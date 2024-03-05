@@ -62,10 +62,10 @@ sections:
       text: Data science resources for classroom
       items:
         - name: Data visualizations
+          description: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
           button:
             text: Get Started
             url: https://hugoblox.com/templates/
-          description: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
         - name: Fast
           icon: bolt
           description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
