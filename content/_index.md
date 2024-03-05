@@ -94,7 +94,7 @@ sections:
           image: build-website.png
           button:
             text: Check out data viz
-            url: <../assets/media/Data viz files/govt_funding.html>
+            url: <../assets/media/Callysto Horizontal Logo Dark white background_Callysto_Hor_Colour_Callysto_Hor_Colour.png>
             #url: govt_funding.html
         - title: Large Community
           text: Join our large community on Discord - ask questions and get live responses
