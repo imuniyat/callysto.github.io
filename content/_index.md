@@ -97,17 +97,17 @@ sections:
             url: https://imuniyat.github.io/callysto.github.io/teacher-resources/data-visualizations/
             #url: govt_funding.html
         - title: Lesson Modules
-          text: Join our large community on Discord - ask questions and get live responses
+          text: Includes lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources:
           feature_icon: bolt
           features:
-            - "Dedicated support channel"
-            - "3,000+ users on Discord"
-            - "Share your site and get feedback"
+            - "Teacher lesson plan (how to introduce and teach the problem)"
+            - "Teacher Jupyter notebook (including instructions)"
+            - "Student Jupyter notebook"
           # Upload image to `assets/media/` and reference the filename here
           image: coffee.jpg
           button:
-            text: Join Discord
-            url: https://discord.gg/z8wNYzb
+            text: Browse lesson plans
+            url: https://imuniyat.github.io/callysto.github.io/teacher-resources/lesson-plans/
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
