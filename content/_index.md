@@ -67,7 +67,7 @@ sections:
             content:
             buttons:
             - title: Read my latest paper on LLMs
-              icon: brands/arxiv
+              icon: bolt
               url: https://arxiv.org/abs/2304.01852
         - name: Fast
           icon: bolt
