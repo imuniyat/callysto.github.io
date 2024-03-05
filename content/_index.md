@@ -95,9 +95,9 @@ sections:
           button:
             text: Check out data viz
             #url: ../assets/media/example.html
-            url: https://imuniyat.github.io/callysto.github.io/teacher-resources/data-visualization/
+            url: https://imuniyat.github.io/callysto.github.io/teacher-resources/data-visualizations/
             #url: govt_funding.html
-        - title: Large Community
+        - title: Lesson Modules
           text: Join our large community on Discord - ask questions and get live responses
           feature_icon: bolt
           features:
