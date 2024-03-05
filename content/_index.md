@@ -61,12 +61,13 @@ sections:
       title: Teacher resources
       text: Data science resources for classroom
       items:
+        button:
+          text: Check out data viz
+          #url: ../assets/media/example.html
+          url: https://imuniyat.github.io/callysto.github.io/teacher-resources/data-visualizations/
         - name: Data visualizations
           description: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
-          button:
-            text: Check out data viz
-            #url: ../assets/media/example.html
-            url: https://imuniyat.github.io/callysto.github.io/teacher-resources/data-visualizations/
+
         - name: Fast
           icon: bolt
           url: "https://hugoblox.com/templates/"
