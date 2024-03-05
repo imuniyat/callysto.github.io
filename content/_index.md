@@ -58,12 +58,14 @@ sections:
   - block: features
     id: features
     content:
-      title: Features
-      text: Build your site with blocks 🧱
+      title: Teacher resources
+      text: Data science resources for classroom
       items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
+        - name: Data visualizations
+          button:
+            text: Get Started
+            url: https://hugoblox.com/templates/
+          description: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
         - name: Fast
           icon: bolt
           description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
