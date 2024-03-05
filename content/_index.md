@@ -96,8 +96,8 @@ sections:
             #url: ../assets/media/example.html
             url: https://imuniyat.github.io/callysto.github.io/teacher-resources/data-visualizations/
             #url: govt_funding.html
-        - title: Lesson Modules
-          text: Includes lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources:
+        - title: Lesson plans
+          text: Includes lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources -
           feature_icon: bolt
           features:
             - "Teacher lesson plan (how to introduce and teach the problem)"
