@@ -19,11 +19,13 @@ sections:
       secondary_action:
         text: Read the docs
         url: https://docs.hugoblox.com
+      <!---
       announcement:
         text: "Announcing the release of version 1."
         link:
           text: "Read more"
           url: "/blog/"
+      -->
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -40,18 +42,15 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "1.3M+"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            Students trained
+        - statistic: "5K+"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            Teachers trained
+        - statistic: "10K+"
           description: |
-            Discord community  
-            for support
+            Callysto Hub users
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
