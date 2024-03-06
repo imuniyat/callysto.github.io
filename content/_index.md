@@ -82,6 +82,30 @@ sections:
     id: solutions
     content:
       items:
+        - title: Lesson plans
+          text: We designed lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources -
+          feature_icon: bolt
+          features:
+            - "Teacher lesson plan (how to introduce and teach the problem)"
+            - "Teacher Jupyter notebook (including instructions)"
+            - "Student Jupyter notebook"
+          # Upload image to `assets/media/` and reference the filename here
+          image: coffee.jpg
+          button:
+            text: Browse lesson plans
+            url: https://imuniyat.github.io/callysto.github.io/
+        - title: Lesson modules
+          text: We designed lesson modules to __________
+          feature_icon: bolt
+          features:
+            - "a"
+            - "b"
+            - "c"
+          # Upload image to `assets/media/` and reference the filename here
+          image: coffee.jpg
+          button:
+            text: Browse lesson plans
+            url: https://imuniyat.github.io/callysto.github.io/teacher-resources/lesson-plans/
         - title: Data visualizations
           text: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
           #feature_icon: check
@@ -96,18 +120,6 @@ sections:
             #url: ../assets/media/example.html
             url: https://imuniyat.github.io/callysto.github.io/teacher-resources/data-visualizations/
             #url: govt_funding.html
-        - title: Lesson plans
-          text: Includes lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources -
-          feature_icon: bolt
-          features:
-            - "Teacher lesson plan (how to introduce and teach the problem)"
-            - "Teacher Jupyter notebook (including instructions)"
-            - "Student Jupyter notebook"
-          # Upload image to `assets/media/` and reference the filename here
-          image: coffee.jpg
-          button:
-            text: Browse lesson plans
-            url: https://imuniyat.github.io/callysto.github.io/teacher-resources/lesson-plans/
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
