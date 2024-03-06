@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Building tomorrow's digital leaders
+      title: Bring data science into your classroom
       text: Free data science resources for K-12 teachers and students
       # primary_action:
       #   text: Get Started
