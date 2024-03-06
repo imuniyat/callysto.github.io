@@ -1,6 +1,6 @@
 ---
 title: 📈 Lesson modules
-summary: <add description>
+summary: add description
 date: 2023-10-25
 authors:
   - admin

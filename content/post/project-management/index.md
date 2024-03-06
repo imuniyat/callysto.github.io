@@ -1,5 +1,5 @@
 ---
-title: ✅ Blog posts
+title: Blog posts
 summary: Student journeys and events
 date: 2023-10-23
 authors:
