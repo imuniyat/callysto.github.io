@@ -1,7 +1,6 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: Indigenous content
+summary: The learning resources on this page were created in an effort to promote cross-cultural understanding as well as celebrate Indigenous culture through data science and mathematical modeling. Go to the Get Started guide to learn about how our interactive learning resources work.
 authors:
   - admin
 tags:
