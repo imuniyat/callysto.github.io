@@ -32,12 +32,12 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+  # - icon: academicons/cv
+  #   url: uploads/resume.pdf
+  #   label: Download my resume
+  # - icon: rss
+  #   url: ./post/index.xml
+  #   label: Subscribe to my blog via RSS feed
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -45,7 +45,3 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

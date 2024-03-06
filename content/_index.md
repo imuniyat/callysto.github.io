@@ -93,7 +93,7 @@ sections:
           image: CALM.png
           button:
             text: Browse lesson plans
-            url: https://imuniyat.github.io/callysto.github.io/
+            url: https://imuniyat.github.io/callysto.github.io/teacher-resources/lesson-plans/
         - title: Learning modules
           text: We designed learning modules to __________
           feature_icon: bolt

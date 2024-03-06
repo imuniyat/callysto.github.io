@@ -7,7 +7,7 @@ main:
     url: /#top
     weight: 10
   - name: Teacher Resources
-    url: /#features
+    url: /#solutions
     weight: 20
   - name: Contact
     url: /#solutions
