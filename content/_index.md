@@ -90,7 +90,7 @@ sections:
             - "Teacher Jupyter notebook (including instructions)"
             - "Student Jupyter notebook"
           # Upload image to `assets/media/` and reference the filename here
-          image: calm.png
+          image: CALM.png
           button:
             text: Browse lesson plans
             url: https://imuniyat.github.io/callysto.github.io/
