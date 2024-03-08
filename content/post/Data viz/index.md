@@ -6,3 +6,4 @@ These pre-made, introductory data science lessons are a way for students to deve
 
 - [**Exploring Government funding allocations**](./HTML/govt_funding.html)
 - [**Test file**](./HTML/govt_funding_test.html)
+<a href="./HTML/govt_funding.html" target="_blank">test new tab</a>
