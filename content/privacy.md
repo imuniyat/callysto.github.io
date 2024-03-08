@@ -1,7 +1,6 @@
 ---
 title: Privacy
-date: 2023-12-01
 share: false
 ---
 
-Add your company privacy policy here...
+[Privacy notice](https://github.com/imuniyat/callysto.github.io/blob/main/assets/CallystoPrivacyNotice-July2019.pdf)
