@@ -4,6 +4,5 @@ date: 2024-02-26
 ---
 These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
 
-- [**Exploring Government funding allocations**](./HTML/govt_funding.html)
-- [**Test file**](./HTML/govt_funding_test.html)
-<a href="./HTML/govt_funding.html" target="_blank">test new tab</a>
+- <a href="./HTML/govt_funding.html" target="_blank">Exploring Government funding allocations</a>
+<a href="govt_funding.md" target="_blank">test md</a>
