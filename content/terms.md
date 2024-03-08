@@ -5,3 +5,4 @@ share: false
 
 [**Callysto Terms of Service**](./CallystoTermsofService-July2019.pdf)
 [Callysto Terms of Service](/assets/CallystoTermsofService-July2019.pdf)
+{{% assetref "CallystoTermsofService-July2019.pdf" "newtab" %}}Download my CV{{% /assetref %}}
