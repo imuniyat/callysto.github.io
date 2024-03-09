@@ -78,11 +78,14 @@ sections:
         - name: Swappable Blocks
           icon: rectangle-group
           description: Build your pages with blocks - no coding required!
-          
+
   - block: features
     id: resources
     content:
       title: Teacher resources
+  # Reduce spacing
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
   - block: cta-image-paragraph
     id: solutions
     content:
