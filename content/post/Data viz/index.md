@@ -8,6 +8,7 @@ These pre-made, introductory data science lessons are a way for students to deve
 - <a href="./index.md" target="_blank">test</a>
 - [test](index.md)
 
+{{< spoiler text="Exploring Government funding allocations" >}}
 <p>Grades 6 - 9</p>
 <p>Understanding the Canadian government's budget, expenditures, and future spending plans is important for promoting transparency and accountability. Moreover, it allows us to pinpoint areas for optimization, focusing on high-spending sectors.</p>
 <p>In this data visualization, we examined how various sectors within the Canadian government allocate their budgets. By identifying the highest and lowest spenders, we seek to understand the distribution of expenses and discover trends in budget allocation for crucial categories like health and defense.</p>
@@ -46,3 +47,4 @@ These pre-made, introductory data science lessons are a way for students to deve
 </ul>
 <h2>Learn how we visualized the data</h2>
 <p><a href="https://hub.callysto.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcallysto%2Fdata-viz-of-the-week&amp;branch=main&amp;subPath=government-spending/government-spending.ipynb&amp;depth=1" target="_blank" rel="noopener">Go to our walk-through</a> (in Jupyter notebook format) to see how the data science process was applied to create these graphs, from formulating a question to gathering the data and analyzing the data with code.</p>
+{{< /spoiler >}}
