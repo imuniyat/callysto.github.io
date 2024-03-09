@@ -5,7 +5,8 @@ date: 2024-02-26
 These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
 
 - <a href="./HTML/govt_funding.html" target="_blank">Exploring Government funding allocations</a>
-- <a href="./HTML/_index.md" target="_blank">test</a>
+- <a href="./index.md" target="_blank">test</a>
+- [test](index.md)
 
 <p>Grades 6 - 9</p>
 <p>Understanding the Canadian government's budget, expenditures, and future spending plans is important for promoting transparency and accountability. Moreover, it allows us to pinpoint areas for optimization, focusing on high-spending sectors.</p>
