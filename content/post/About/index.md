@@ -12,6 +12,13 @@ tags:
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
+Teachers, welcome to Callysto!
+
+Callysto is a free, online learning tool that helps Grades 5-12 students and teachers learn and apply in-demand data science skills including data analysis and visualization, coding, and computational thinking. Our interactive learning modules are available in a variety of subjects – from math to history – and are aligned with existing curriculum.
+
+Callysto's mission is to foster computational thinking and data literacy skills in Canadian schools.
+
+The Callysto program ran between YEAR-YEAR and was facilitated by the non-profit organizations Cybera and the Pacific Institute for the Mathematical Sciences. It was funded under the national CanCode program.
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 

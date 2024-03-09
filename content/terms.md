@@ -3,4 +3,4 @@ title: Terms of Service
 share: true
 ---
 
-<!-- [Callysto Terms of Service](https://github.com/imuniyat/callysto.github.io/blob/main/assets/CallystoTermsofService-July2019.pdf) -->
+<a href="https://github.com/imuniyat/callysto.github.io/blob/main/static/uploads/CallystoTermsofService-July2019.pdf" target="_blank">Terms of Service</a>
