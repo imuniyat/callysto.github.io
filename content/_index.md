@@ -128,22 +128,22 @@ sections:
       title: ""
       text: ""
       items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
+        - name: "Jenn O’neill"
+          role: "Teacher"
           # Upload image to `assets/media/` and reference the filename here
           image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
+          text: "Students who I thought wouldn’t like coding or doing a computer-type skill are saying, “this is pretty cool.” And at the end of the day I always want them to work on teamwork, communication, problem solving, and conceptual learning that goes beyond just the textbook."
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+      title: Have questions? We're here to help.
+      text: Email contact@callysto.ca if you have questions about how to use Callysto in your classroom.
+      # button:
+      #   text: Get Started
+      #   url: https://hugoblox.com/templates/
     design:
       card:
         # Card background color (CSS class)
