@@ -142,7 +142,7 @@ sections:
     id: contact
     content:
       title: Have questions? We're here to help.
-      text: Email contact@callysto.ca if you have questions about how to use Callysto in your classroom.
+      text: Email <a href="mailto:contact@callysto.ca">contact@callysto.ca</a> if you have questions about how to use Callysto in your classroom.
       # button:
       #   text: Get Started
       #   url: https://hugoblox.com/templates/
