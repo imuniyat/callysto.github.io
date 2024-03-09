@@ -1,9 +1,0 @@
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ $p := where site.RegularPages "Section" "blog" }}
-  {{ $p = where $p "Params.tags" "intersect" (slice "data-viz") }}
-  {{ range $p }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
-{{ end }}
