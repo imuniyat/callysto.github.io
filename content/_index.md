@@ -81,7 +81,7 @@ sections:
   - block: cta-image-paragraph
     id: solutions
     content:
-    title: Teacher resources
+      title: Teacher resources
       items:
         - title: Lesson plans
           text: We designed lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources -
@@ -121,23 +121,6 @@ sections:
             #url: ../assets/media/example.html
             url: https://imuniyat.github.io/callysto.github.io/teacher-resources/data-visualizations/
             #url: govt_funding.html
-
-  # SECTION: ABOUT
-   design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
-      title: About
-      text: Teachers, welcome to Callysto!
-      
-      Callysto is a free, online learning tool that helps Grades 5-12 students and teachers learn and apply in-demand data science skills including data analysis and visualization, coding, and computational thinking. Our interactive learning modules are available in a variety of subjects – from math to history – and are aligned with existing curriculum.
-      
-      Callysto's mission is to foster computational thinking and data literacy skills in Canadian schools.
-      
-      The Callysto program ran between YEAR-YEAR and was facilitated by the non-profit organizations Cybera and the Pacific Institute for the Mathematical Sciences. It was funded under the national CanCode program.
-
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
