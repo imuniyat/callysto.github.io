@@ -131,7 +131,7 @@ sections:
         - name: "Jenn O’neill"
           role: "Teacher"
           # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
+          # image: "testimonial-1.jpg"
           text: "Students who I thought wouldn’t like coding or doing a computer-type skill are saying, “this is pretty cool.” And at the end of the day I always want them to work on teamwork, communication, problem solving, and conceptual learning that goes beyond just the textbook."
     design:
       spacing:
