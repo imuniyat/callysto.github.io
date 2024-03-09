@@ -7,10 +7,10 @@ main:
     url: /#top
     weight: 10
   - name: Teacher Resources
-    url: /#solutions
+    url: /#resources
     weight: 20
   - name: Contact
-    url: /#solutions
+    url: /#contact
     weight: 30
   # - name: Resources
   #   weight: 40

@@ -78,17 +78,10 @@ sections:
         - name: Swappable Blocks
           icon: rectangle-group
           description: Build your pages with blocks - no coding required!
-  - block: features
+
+  - block: cta-image-paragraph
     id: resources
     content:
-      title: Teacher resources
-  # Reduce spacing
-      spacing:
-        padding: ["-1rem", 0, "-1rem", 0]
-  - block: cta-image-paragraph
-    id: solutions
-    content:
-      title: Teacher resources
       items:
         - title: Lesson plans
           text: We designed lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources -
@@ -146,6 +139,7 @@ sections:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
+    id: contact
     content:
       title: Have questions? We're here to help.
       text: Email contact@callysto.ca if you have questions about how to use Callysto in your classroom.
