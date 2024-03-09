@@ -121,7 +121,7 @@ sections:
             #url: ../assets/media/example.html
             url: https://imuniyat.github.io/callysto.github.io/teacher-resources/data-visualizations/
             #url: govt_funding.html
-            
+
   # SECTION: ABOUT
    design:
       # Section background color (CSS class)
@@ -129,9 +129,6 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: features
-    id: features
-    content:
       title: About
       text: Teachers, welcome to Callysto!
       
@@ -168,6 +165,6 @@ sections:
     design:
       card:
         # Card background color (CSS class)
-        css_class: "bg-primary-800"
+        css_class: "bg-primary-700"
         css_style: ""
 ---
