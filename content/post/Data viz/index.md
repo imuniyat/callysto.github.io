@@ -6,7 +6,6 @@ These pre-made, introductory data science lessons are a way for students to deve
 
 - <a href="./HTML/govt_funding.html" target="_blank">Exploring Government funding allocations</a>
 - <a href="./index.md" target="_blank">test</a>
-- [test](index.md)
 
 {{< spoiler text="Exploring Government funding allocations" >}}
 <p>Grades 6 - 9</p>
