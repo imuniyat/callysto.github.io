@@ -2,9 +2,7 @@
 title: Privacy
 share: false
 
-sections:
-- block: features
-    - icon: download
+- icon: download
     icon_pack: fas
     name: my-pdf
     url: "uploads/CallystoPrivacyNotice-July2019.pdf"
