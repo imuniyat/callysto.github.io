@@ -31,7 +31,7 @@ These pre-made, introductory data science lessons are a way for students to deve
 <p><iframe loading="lazy" id="igraph" class="post-img-shadow" style="border: none;" src="https://callysto.github.io/data-files/data-viz-of-the-week/government-spending/percentage_fig.html" width="100%" height="700" scrolling="no" seamless="seamless"></iframe></p>
 <p>Half the categories saw a decrease in percentage, while the other half increased from 2008 to 2021. Notably, the largest jump occurred in 2019-2020, with a 7% increase in social protection, likely due to the onset of Covid-19. Interestingly, health, typically a priority in crises, saw a decrease.</p>
 <p>Next, we used a Folium map to show the spending allocations of each province. In the following interactive visualization, you can navigate to the top tab labelled “Column”, choose the specific category of interest, and see the colours on the map. For each category, deeper shades of green indicate a higher allocation of government budget, while lighter hues suggest a comparatively lower allocation.</p>
-<p><iframe loading="lazy" id="igraph" class="post-img-shadow" style="border: none;" src="https://callysto.github.io/data-files/data-viz-of-the-week/government-spending/folium_map.html" width="100%" height="600" scrolling="no" seamless="seamless"></iframe></p>
+<p><iframe loading="lazy" id="igraph" class="post-img-shadow" style="border: none;" src="https://callysto.github.io/data-files/data-viz-of-the-week/government-spending/folium_map.html" width="100%" height="500" scrolling="no" seamless="seamless"></iframe></p>
 
 <h2><b>Reflect on what you see</b></h2>
 <p>Look and interact with the data visualization above. When you hover the mouse over the bar graph, you’ll notice more information appears.</p>
