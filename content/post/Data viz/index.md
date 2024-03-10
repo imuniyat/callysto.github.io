@@ -6,7 +6,7 @@ These pre-made, introductory data science lessons are a way for students to deve
 
 
 
-- <a href=".HTML/test.html" target="_blank">test</a>
+- <a href="./HTML/test.html" target="_blank">test</a>
 - <a href="./HTML/test.md" target="_blank">test markdown</a>
 
 <!-- - <a href="./HTML/test.html" target="_blank">test</a> -->
