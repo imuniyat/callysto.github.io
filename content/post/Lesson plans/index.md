@@ -23,7 +23,7 @@ Below are lesson plans to solve a variety of problems (including TED-Ed Riddles)
 - Teacher lesson plan (how to introduce and teach the problem)
 - Teacher Jupyter notebook (including instructions)
 - Student Jupyter notebook
-
+<!-- 
 ## Overview
 
 1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
@@ -85,4 +85,4 @@ Hugo Blox and its templates come with **automatic day (light) and night (dark) m
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license. -->
