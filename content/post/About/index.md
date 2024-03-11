@@ -19,7 +19,7 @@ Callysto is a free, online learning tool that helps Grades 5-12 students and tea
 Callysto's mission is to foster computational thinking and data literacy skills in Canadian schools.
 
 The Callysto program ran between YEAR-YEAR and was facilitated by the non-profit organizations Cybera and the Pacific Institute for the Mathematical Sciences. It was funded under the national CanCode program.
-
+<!-- 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
@@ -147,4 +147,4 @@ renders as
 
 {{< icon name="python" >}} Python
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->
