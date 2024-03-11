@@ -10,7 +10,7 @@ tags:
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
-
+<!-- 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 
 ## Ideation
@@ -91,4 +91,4 @@ renders as
   - [x] Write diagram example
 - [ ] Do something else
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->
