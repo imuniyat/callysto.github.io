@@ -5,9 +5,6 @@ date: 2024-02-26
 These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
 
 
-<!-- - <a href="./HTML/govt_funding.html" target="_blank">test html</a> -->
-
-
 {{< spoiler text="Exploring Government funding allocations" >}}
 <p>Grades 6 - 9</p>
 <p>Understanding the Canadian government's budget, expenditures, and future spending plans is important for promoting transparency and accountability. Moreover, it allows us to pinpoint areas for optimization, focusing on high-spending sectors.</p>
@@ -50,8 +47,8 @@ These pre-made, introductory data science lessons are a way for students to deve
 {{< /spoiler >}}
 
 
-{{< spoiler text="Eunderstanding stock market" >}}
-	<p>Grades 9 - 12</p>
+{{< spoiler text="Understanding stock market" >}}
+<p>Grades 9 - 12</p>
 <p>Grasping financial literacy through stocks from a young age establishes a foundation for long-term financial literacy, encouraging students to make informed decisions, develop saving habits, and leverage the compounding benefits of early investments.</p>
 <p>In this data visualization, our goal is to introduce the concept of stocks, highlighting the advantages of cultivating a positive mentality and mindset towards investing.</p>
 <p><strong>To answer our question we used data from:<br>
@@ -68,7 +65,7 @@ These pre-made, introductory data science lessons are a way for students to deve
 <p>The trend line doesn’t show a significant increase until approximately 1990. Following this period, we observe a gradual uptick in stock prices, punctuated by periods of substantial growth (such as in the 2010s) and stagnation (as seen in the 2000s). However, the overall trend indicates an upward trajectory, despite periods of sudden growth and decline. This analysis served as a good benchmark to demonstrate how investing in a safe group of stocks like an ETF can lead to long-term growth and financial sustainability.</p>
 
 <p>Afterwards, we implemented the ability for users to research the historical price of different stocks on the Nasdaq, leading to informative insights such as which stocks historically perform better during particular periods and analyzing patterns of when prices generally will rise or fall.</p>
-<p><iframe loading="lazy" id="igraph" class="post-img-shadow" style="border: none;" src="./stock_market_files/AAPL.html" width="100%" height="700" scrolling="no" seamless="seamless"></iframe></p>
+<p><iframe loading="lazy" id="igraph" class="post-img-shadow" style="border: none;" src="https://callysto.github.io/data-files/data-viz-of-the-week/stock-prices/AAPL.html" width="100%" width="100%" height="700" scrolling="no" seamless="seamless"></iframe></p>
 <p>In this particular example, we can see Apple’s historical stock prices from 2000 to 2023. Apple’s peak stock price was around 2021 to 2022, and throughout Apple’s history, its stock price has generally shown a slow increase, starting from approximately 2010 onwards.</p>
 
 <h2><b>Reflect on what you see</b></h2>
