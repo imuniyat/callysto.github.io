@@ -9,7 +9,7 @@ tags:
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
-
+<!-- 
 Create a personal knowledge base and share your knowledge with your peers.
 
 Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
@@ -134,4 +134,4 @@ Or use the `warning` callout type so your readers don't miss critical details:
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
 {{% /callout %}}
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->
