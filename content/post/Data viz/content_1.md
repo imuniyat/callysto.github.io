@@ -1,4 +1,4 @@
 ---
-title: test md
-date: 2024-02-26
+title: My First Article
+url: /articles/my-first-article
 ---
