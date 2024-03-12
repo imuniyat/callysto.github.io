@@ -6,6 +6,11 @@ These pre-made, introductory data science lessons are a way for students to deve
 
 <a href="./HTML/test.html" target="_blank">Test page</a>
 <!-- <a href="./content_1.md" target="_blank">Test md</a> -->
+hello
+<a href="/workspaces/callysto.github.io/content/post/content_1.md" target="_blank">Test md</a>
+
+
+
 
 {{< spoiler text="Exploring Government funding allocations" >}}
 <p>Grades 6 - 9</p>
