@@ -94,7 +94,7 @@ sections:
           image: CALM.png
           button:
             text: Browse lesson plans
-            url: https://imuniyat.github.io/callysto.github.io/teacher-resources/lesson-plans/
+            url: https://imuniyat.github.io/callysto.github.io/lessonplans/
         - title: Learning modules
           text: We designed learning modules to __________
           feature_icon: bolt
@@ -106,7 +106,7 @@ sections:
           image: social-media.png
           button:
             text: Browse learning modules
-            url: https://imuniyat.github.io/callysto.github.io/teacher-resources/learning-modules/
+            url: https://imuniyat.github.io/callysto.github.io/lessonmodules/
         - title: Data visualizations
           text: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
           #feature_icon: check
@@ -119,7 +119,7 @@ sections:
           button:
             text: Check out data viz
             #url: ../assets/media/example.html
-            url: https://imuniyat.github.io/callysto.github.io/teacher-resources/data-visualizations/
+            url: https://imuniyat.girhub.io/callysto.github.io/dataviz/
             #url: govt_funding.html
     design:
       # Section background color (CSS class)
