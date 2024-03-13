@@ -126,7 +126,7 @@ cascade:
       path: /learningmodule/*
       kind: section
     # Change url to /lessonplan/
-    url: /lessonmodule/
+    url: /learningmodule/
     # Set the listing view
     view: date-title-summary
 ############################
