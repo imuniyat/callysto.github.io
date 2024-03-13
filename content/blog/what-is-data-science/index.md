@@ -1,7 +1,7 @@
 ---
 title: What is data science?
 description: We explain what data science is.
-date: 2023-10-30
+date: 2024-03-13
 ---
 <p style="text-align: left;">Data science is a field of study as well as a set of skills aimed at finding patterns or drawing conclusions from large datasets. It can help make more informed decisions, answer questions, and discover new directions to look in. Though the field has existed, in some form, for decades, the availability of large datasets, accessibility to computing and data storage, and advancements in computing algorithms have significantly advanced data science capabilities.</p>
 <p>With computers — and, by extension, data — becoming commonplace, it’s increasingly important for people to be comfortable reading, understanding, interpreting, and communicating using data. This is known as data literacy, a key outcome of studying data science. Additionally, data science relies heavily on mathematics and statistics, and so can serve as a practical application to develop those quantitative skills.</p>
