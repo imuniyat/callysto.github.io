@@ -155,6 +155,7 @@ permalinks:
   dataviz: '/dataviz/:slug/'
   lessonplans: '/lessonplan/:slug/'
   learningmodule: '/learningmodule/:slug/'
+  blog: '/blog/:slug/'
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
