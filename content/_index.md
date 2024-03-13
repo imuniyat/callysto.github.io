@@ -119,7 +119,7 @@ sections:
           button:
             text: Check out data viz
             #url: ../assets/media/example.html
-            url: https://imuniyat.girhub.io/callysto.github.io/dataviz/
+            url: https://imuniyat.github.io/callysto.github.io/dataviz/
             #url: govt_funding.html
     design:
       # Section background color (CSS class)
