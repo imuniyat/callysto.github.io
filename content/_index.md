@@ -83,18 +83,6 @@ sections:
     id: resources
     content:
       items:
-         - title: Computational thinking test
-          text: CTT
-          feature_icon: bolt
-          features:
-            - "a"
-            - "b"
-            - "c"
-          # Upload image to `assets/media/` and reference the filename here
-          image: CALM.png
-          button:
-            text: Take the test
-            url: https://imuniyat.github.io/callysto.github.io/computational-thinking-test/
         - title: Learning modules
           text: We designed learning modules to __________
           feature_icon: bolt
