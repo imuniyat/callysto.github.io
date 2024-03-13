@@ -7,13 +7,13 @@ title: Callysto # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
-## DATA VIZ PAGE OPTIONS
+## Blog OPTIONS
 ############################
 
 cascade:
   # Blog post options
   - _target:
-      path: /post/**
+      path: /blog/**
       kind: page
     pager: true
     editable: true
@@ -30,10 +30,41 @@ cascade:
         enable: true
   # Blog section options
   - _target:
-      path: /post/*
+      path: /blog/*
       kind: section
     # Change url to /blog/
-    url: /teacher-resources/
+    url: /blog/
+    # Set the listing view
+    view: date-title-summary
+
+############################
+## DATA VIZ PAGE OPTIONS
+############################
+
+cascade:
+  # Data viz options
+  - _target:
+      path: /dataviz/**
+      kind: page
+    pager: true
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on dataviz post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
+  # Data viz section options
+  - _target:
+      path: /dataviz/*
+      kind: section
+    # Change url to /dataviz/
+    url: /data-visualizations/
     # Set the listing view
     view: date-title-summary
 
@@ -42,7 +73,7 @@ cascade:
 ############################
 
 cascade:
-  # Blog post options
+  # Lesson plan options
   - _target:
       path: /lessonplan/**
       kind: page
@@ -54,17 +85,48 @@ cascade:
     commentable: true
     show_related: true
     share: true
-    # Just use Breadcrumb for navigation on blog post pages?
+    # Just use Breadcrumb for navigation on lesson plan post pages?
     show_breadcrumb: false
     header:
       navbar:
         enable: true
-  # Blog section options
+  # lesson plan section options
   - _target:
       path: /lessonplan/*
       kind: section
-    # Change url to /blog/
+    # Change url to /lessonplan/
     url: /lesson-plans/
+    # Set the listing view
+    view: date-title-summary
+
+############################
+## Learning modules OPTIONS
+############################
+
+cascade:
+  # Learning modules options
+  - _target:
+      path: /learningmodule/**
+      kind: page
+    pager: true
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on lesson plan post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
+  # lesson plan section options
+  - _target:
+      path: /learningmodule/*
+      kind: section
+    # Change url to /lessonplan/
+    url: /lesson-modules/
     # Set the listing view
     view: date-title-summary
 ############################
