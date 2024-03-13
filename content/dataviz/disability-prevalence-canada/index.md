@@ -3,7 +3,7 @@ title: Disability prevalence in Canada
 description: How many Canadians have disabilities compared to those without? What are the employment rates among Canadians with disabilities?
 date: 2023-10-30
 ---
-<p><b>Grades 5 - 9>/b></p>
+<p><b>Grades 5 - 9></b></p>
 <p>Canada is home to a significant number of individuals with disabilities, who face a diverse range of impairments, limitations, or restrictions related to vision, hearing, mobility, cognitive or intellectual abilities. The impact of disabilities on people is complicated and multifaceted.</p>
 <p>This visualization delves into the proportions of Canadians with disabilities compared to those without. Furthermore, we explore the employment landscape, and examine the employment rate for individuals with disabilities.</p>
 <p><strong>To answer our questions, we used several datasets from Statistics Canada. The specific datasets we used are:<br>

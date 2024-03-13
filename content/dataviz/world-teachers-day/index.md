@@ -1,7 +1,7 @@
 ---
 title: World Teacher's Day
 description: How does the teacher-to-student ratio vary across Canadian provinces? How do students describe their favourite teachers?
-date: 2023-10-5
+date: 2023-10-05
 ---
 
 <p><b>Grades 5 - 12</b></p>
