@@ -9,9 +9,6 @@ These pre-made, introductory data science lessons are a way for students to deve
 hello world
 <a href="/workspaces/callysto.github.io/content/post/content_1.md" target="_blank">Test md</a>
 
-
-
-
 {{< spoiler text="Understanding stock market" >}}
 <p>Grades 9 - 12</p>
 <p>Grasping financial literacy through stocks from a young age establishes a foundation for long-term financial literacy, encouraging students to make informed decisions, develop saving habits, and leverage the compounding benefits of early investments.</p>
