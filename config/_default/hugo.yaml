@@ -64,7 +64,7 @@ cascade:
       path: /dataviz/*
       kind: section
     # Change url to /dataviz/
-    url: /data-visualizations/
+    url: /dataviz/
     # Set the listing view
     view: date-title-summary
 
@@ -95,7 +95,7 @@ cascade:
       path: /lessonplan/*
       kind: section
     # Change url to /lessonplan/
-    url: /lesson-plans/
+    url: /lessonplan/
     # Set the listing view
     view: date-title-summary
 
@@ -126,7 +126,7 @@ cascade:
       path: /learningmodule/*
       kind: section
     # Change url to /lessonplan/
-    url: /lesson-modules/
+    url: /lessonmodule/
     # Set the listing view
     view: date-title-summary
 ############################
@@ -149,10 +149,12 @@ summaryLength: 30
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
-footnotereturnlinkcontents: <sup>^</sup>
+footnotereturnlinkcontents: <sup>^</sup>ß
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  dataviz: '/data-visualizations/:slug/'
+  dataviz: '/dataviz/:slug/'
+  lessonplans: '/lessonplan/:slug/'
+  learningmodule: '/learningmodule/:slug/'
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
