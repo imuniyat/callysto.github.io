@@ -1,7 +1,7 @@
 ---
-title: Government funding allocations
+title: Exploring government funding allocations
 description: We examined how various sectors within the Canadian government allocate their budgets.
-date: 2024-02-26
+date: 2024-01-25
 ---
 <p><b>Grades 6 - 9</b></p>
 <p>Understanding the Canadian government's budget, expenditures, and future spending plans is important for promoting transparency and accountability. Moreover, it allows us to pinpoint areas for optimization, focusing on high-spending sectors.</p>

@@ -1,7 +1,7 @@
 ---
 title: Understanding stock market
 description: We introduce the concept of stocks, highlighting the advantages of cultivating a positive mentality and mindset towards investing.
-date: 2024-02-26
+date: 2024-02-20
 ---
 <p><b>Grades 9 - 12</b></p>
 <p>Grasping financial literacy through stocks from a young age establishes a foundation for long-term financial literacy, encouraging students to make informed decisions, develop saving habits, and leverage the compounding benefits of early investments.</p>
