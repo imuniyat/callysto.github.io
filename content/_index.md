@@ -55,7 +55,26 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-        
+  - block: hero
+    content:
+      title: Teacher Resources
+      text: Data science resources
+      primary_action:
+        text: Get Started
+        url: https://hugoblox.com/templates/
+        icon: rocket-launch
+      secondary_action:
+        text: Read the docs
+        url: https://docs.hugoblox.com
+      announcement:
+       text: "Announcing the release of version 1."
+       link:
+         text: "Read more"
+         url: "/blog/"
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
   - block: stats
     content:
     
