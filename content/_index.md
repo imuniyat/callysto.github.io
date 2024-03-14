@@ -63,10 +63,6 @@ sections:
         text: All resources
         url: https://hugoblox.com/templates/
         icon: rocket-launch
-    design:
-      spacing:
-        padding: ["-50rem", 0, 0, 0]
-        margin: [0, 0, "-50rem", 0]
   - block: stats
     content:
     
