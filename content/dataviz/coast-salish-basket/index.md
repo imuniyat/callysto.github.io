@@ -13,7 +13,8 @@ date: 2023-09-24
 <p>The motifs we observe on many Coast Salish baskets are highly regular and can be described very simply in terms of basic geometric shapes and mathematical operations.</p>
 <p><strong>Motifs</strong><br>
 The basic geometric shapes or motifs include broken lines, triangles, rectangles, and more. Here are three: the broken line, the atomic snake, and the triangle:</p>
-![basket](basket_figure_2.png "testing image")
+<!-- ![basket](basket_figure_2.png "testing image") -->
+<img src="basket_figure_2.png" alt="Test image">
 <p><img loading="lazy" decoding="async" class="aligncenter wp-image-5413 size-large" src="/assets/media/basket_figure_2.png" alt="" width="1024" height="466" srcset="/assets/media/basket_figure_2.png 1024w, /assets/media/basket_figure_2.png 300w, /assets/media/basket_figure_2.png 768w, /assets/media/basket_figure_2.png 1536w, /assets/media/basket_figure_2.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></p>
 <p>The number of lines, height and width can be adjusted to suit the artist's vision of the weaver.</p>
 <p><strong>Mathematical Operations</strong><br>
