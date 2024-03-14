@@ -20,7 +20,7 @@ These motifs can be repeated using the geometric operations of flipping and refl
 <p>Here are the basic stacking operations:</p>
 <p><img loading="lazy" decoding="async" class="aligncenter wp-image-5415 size-full" src="basket_figure_4.png" alt="" width="1600" height="640" srcset="basket_figure_4.png 1600w, basket_figure_4.png 300w, basket_figure_4.png 1024w, basket_figure_4.png 768w, basket_figure_4.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px"></p>
 <p>Finally, these combined patterns can be woven into the shape of a basket, as in the graphical representation here. Notice we can have both rectangular and circular baskets of all sorts of shapes and sizes.</p>
-<p><iframe loading="lazy" id="igraph" class="post-img-shadow" style="border: none;" src=".https://callysto.github.io/data-files/data-viz-of-the-week/coast-salish-baskets/SalishBasketLive.html" width="100%" height="600 " scrolling="no" seamless="seamless"></iframe></p>
+<p><iframe loading="lazy" id="igraph" class="post-img-shadow" style="border: none;" src="https://callysto.github.io/data-files/data-viz-of-the-week/coast-salish-baskets/SalishBasketLive.html" width="100%" height="600 " scrolling="no" seamless="seamless"></iframe></p>
 <p>Some questions you might like to explore with these visualizations:</p>
 <ul>
 <li>What are the basic shapes that one can create when weaving?</li>
