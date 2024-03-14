@@ -76,12 +76,6 @@ sections:
           description: |
             Data science resources for classroom
         - statistic: ""
-    design:
-      # Section background color (CSS class)
-      #css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
 
   - block: cta-image-paragraph
     id: resources
@@ -90,7 +84,7 @@ sections:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
       spacing:
-        padding: ["1rem", 0, "1rem", 0]
+        padding: [0, 0, "1rem", 0]
     content:
       items:
         - title: Learning modules
