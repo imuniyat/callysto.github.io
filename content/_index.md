@@ -55,6 +55,19 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
+    <div class="container">
+      <div class="row">
+        <div class="col-3">
+          <!-- This content will take up 3/12 (or 1/4) of the container -->
+        </div>
+        <div class="col-3">
+          <!-- This content will take up 3/12 (or 1/4) of the container -->
+        </div>
+        <div class="col-6">
+          <!-- This content will take up 6/12 (or 1/2) of the container -->
+        </div>
+      </div>
+    </div>
   - block: features
     id: features
     content:
@@ -62,6 +75,8 @@ sections:
       text: Data science resources for classroom
       items:
         - name: Data visualizations
+          icon: bolt
+          url: https://imuniyat.github.io/callysto.github.io/dataviz/
           description: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
         - name: Fast
           icon: bolt
