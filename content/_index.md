@@ -58,10 +58,13 @@ sections:
         
   - block: stats
     content:
+    
       items:
+        - statistic: ""
         - statistic: "Teacher Resources"
           description: |
             Data science resources for classroom
+        - statistic: ""
     design:
       # Section background color (CSS class)
       #css_class: "bg-gray-100 dark:bg-gray-900"
