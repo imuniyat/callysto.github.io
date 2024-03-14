@@ -55,45 +55,32 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-    <div class="container">
-      <div class="row">
-        <div class="col-3">
-          <!-- This content will take up 3/12 (or 1/4) of the container -->
-        </div>
-        <div class="col-3">
-          <!-- This content will take up 3/12 (or 1/4) of the container -->
-        </div>
-        <div class="col-6">
-          <!-- This content will take up 6/12 (or 1/2) of the container -->
-        </div>
-      </div>
-    </div>
-  - block: features
-    id: features
-    content:
-      title: Teacher resources
-      text: Data science resources for classroom
-      items:
-        - name: Data visualizations
-          icon: bolt
-          url: https://imuniyat.github.io/callysto.github.io/dataviz/
-          description: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
-        - name: Fast
-          icon: bolt
-          url: https://imuniyat.github.io/callysto.github.io/dataviz/
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+  # - block: features
+  #   id: features
+  #   content:
+  #     title: Teacher resources
+  #     text: Data science resources for classroom
+  #     items:
+  #       - name: Data visualizations
+  #         icon: bolt
+  #         url: https://imuniyat.github.io/callysto.github.io/dataviz/
+  #         description: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
+  #       - name: Fast
+  #         icon: bolt
+  #         url: https://imuniyat.github.io/callysto.github.io/dataviz/
+  #         description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
+  #       - name: Easy
+  #         icon: sparkles
+  #         description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
+  #       - name: No-Code
+  #         icon: code-bracket
+  #         description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
+  #       - name: Highly Rated
+  #         icon: star
+  #         description: Rated 5-stars by the community.
+  #       - name: Swappable Blocks
+  #         icon: rectangle-group
+  #         description: Build your pages with blocks - no coding required!
 
   - block: cta-image-paragraph
     id: resources
