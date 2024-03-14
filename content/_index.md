@@ -60,12 +60,14 @@ sections:
     content:
       title: Teacher resources
       text: Data science resources for classroom
+    design:
+      spacing:
+        padding: [-5, -10, -5, -10]
+        margin: [0, 0, 0, 0]
   - block: cta-image-paragraph
     id: resources
     design:
       # For full-screen, add `min-h-screen` below
-      spacing:
-        padding: ["-1rem", "-5em", "-1rem", "-5em"]
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
     content:
