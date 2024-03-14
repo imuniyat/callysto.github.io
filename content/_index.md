@@ -65,8 +65,8 @@ sections:
         icon: rocket-launch
     design:
       spacing:
-        padding: [-10, 0, -10, 0]
-        margin: [, 0, 0, 0]
+        padding: ["-10px", 0, "-10px", 0]
+        margin: ["-10px", 0, "-10px", 0]
   - block: stats
     content:
     
