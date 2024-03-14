@@ -1,8 +1,8 @@
 ---
 title: Coast Salish baskets
-description: What geometric concepts can be seen in the traditional weaving of the Coast Salish people?
 date: 2023-09-24
 ---
+<h1> What geometric concepts can be seen in the traditional weaving of the Coast Salish people?</h1>
 <p><b>Grades 5 - 9</b></p>
 <p>Weaving is a craft with a long history in many places around the world, including the Pacific Northwest. Woven baskets, in particular, have long been important practical and cultural objects for BC Coast Salish people. An important feature of woven baskets is the occurrence of beautiful geometric motifs/patterns, such as the ones on the basket below, exhibited at the <a href="https://moa.ubc.ca/" target="_blank" rel="noopener">Museum of Anthropology</a>.</p>
 <p><img loading="lazy" decoding="async" class=" wp-image-5412 aligncenter" src="coffee.jpg" alt="" width="387" height="337" srcset="https://www.callysto.ca/wp-content/uploads/2023/09/basket-figure-1-300x261.jpeg 300w, https://www.callysto.ca/wp-content/uploads/2023/09/basket-figure-1.jpeg 512w" sizes="(max-width: 387px) 100vw, 387px"></p>
