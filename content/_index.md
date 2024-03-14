@@ -55,16 +55,18 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  # - block: features
-  #   id: features
-  #   content:
-  #     title: Teacher resources
-  #     text: Data science resources for classroom
-  #     items:
-  #       - name: Data visualizations
-  #         icon: bolt
-  #         url: https://imuniyat.github.io/callysto.github.io/dataviz/
-  #         description: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
+  - block: features
+    id: features
+    content:
+      title: Teacher resources
+      text: Data science resources for classroom
+      items:
+        - name: Data visualizations
+          icon: bolt
+          description: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
+          button:
+            text: Browse learning modules
+            url: https://imuniyat.github.io/callysto.github.io/learningmodule/
   #       - name: Fast
   #         icon: bolt
   #         url: https://imuniyat.github.io/callysto.github.io/dataviz/
