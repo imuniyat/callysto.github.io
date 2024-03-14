@@ -54,7 +54,7 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-900"
       # Reduce spacing
       spacing:
-        padding: ["1rem", 0, "1rem", 0]
+        padding: ["-10rem", 0, "-10rem", 0]
   - block: cta-image-paragraph
     id: resources
     title: Teacher Resources
