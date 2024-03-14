@@ -55,17 +55,9 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: features
-    id: features
-    content:
-      title: Teacher resources
-      text: Data science resources for classroom
-    design:
-      spacing:
-        padding: [-5, -10, -5, -10]
-        margin: [0, 0, 0, 0]
   - block: cta-image-paragraph
     id: resources
+    title: Teacher Resources
     design:
       # For full-screen, add `min-h-screen` below
       # Section background color (CSS class)
