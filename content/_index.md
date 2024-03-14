@@ -55,6 +55,14 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
+  - block: features
+    id: features
+    content:
+      title: Teacher resources
+      text: Data science resources for classroom
+    design:
+      spacing:
+        padding: ["10rem", 0, "10rem", 0]
   - block: cta-image-paragraph
     id: resources
     design:
