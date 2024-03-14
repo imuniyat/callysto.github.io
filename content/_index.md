@@ -153,7 +153,8 @@ sections:
             url: https://imuniyat.github.io/callysto.github.io/blog/
     design:
       # Section background color (CSS class)
-      css_class: "bg-gray-000 dark:bg-gray-900"
+      {style="background-color:powderblue"}
+      # css_class: "bg-gray-000 dark:bg-gray-900"
   - block: testimonials
     content:
       title: ""
