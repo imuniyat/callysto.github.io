@@ -85,8 +85,10 @@ sections:
   - block: cta-image-paragraph
     id: resources
     design:
+      background:
+        color: "navy"
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      #css_class: "bg-gray-100 dark:bg-gray-900"
     content:
       items:
         - title: Learning modules
