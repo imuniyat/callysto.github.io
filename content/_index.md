@@ -65,8 +65,8 @@ sections:
         icon: rocket-launch
     design:
       spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
+        padding: ["20rem", 0, 0, 0]
+        margin: [0, 0, "20rem", 0]
   - block: stats
     content:
     
@@ -82,6 +82,21 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+    <style>
+  .some-text {
+    color: blue;
+    font-size: 24px;
+  }
+
+  .box {
+    border: 1px solid red;
+    padding: 30px;
+    height: 45px;
+    width: 45px;
+    text-align: center;
+  }
+  </style>
+
   - block: cta-image-paragraph
     id: resources
     design:
