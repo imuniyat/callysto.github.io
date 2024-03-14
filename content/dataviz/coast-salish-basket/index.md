@@ -2,7 +2,7 @@
 title: Coast Salish baskets
 date: 2023-09-24
 ---
-<h1> What geometric concepts can be seen in the traditional weaving of the Coast Salish people?</h1>
+<h2> What geometric concepts can be seen in the traditional weaving of the Coast Salish people?</h2>
 
 
 <p><b>Grades 5 - 9</b></p>
@@ -12,13 +12,13 @@ date: 2023-09-24
 <p>The motifs we observe on many Coast Salish baskets are highly regular and can be described very simply in terms of basic geometric shapes and mathematical operations.</p>
 <p><strong>Motifs</strong><br>
 The basic geometric shapes or motifs include broken lines, triangles, rectangles, and more. Here are three: the broken line, the atomic snake, and the triangle:</p>
-<p><img loading="lazy" decoding="async" class="aligncenter wp-image-5413 size-large" src="basket_figure_2.png" alt="" width="1024" height="466" srcset="basket_figure_2.png 1024w, basket_figure_2.png 300w, basket_figure_2.png 768w, basket_figure_2.png 1536w, basket_figure_2.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter wp-image-5413 size-large" src="/assets/media/basket_figure_2.png" alt="" width="1024" height="466" srcset="/assets/media/basket_figure_2.png 1024w, /assets/media/basket_figure_2.png 300w, /assets/media/basket_figure_2.png 768w, /assets/media/basket_figure_2.png 1536w, /assets/media/basket_figure_2.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></p>
 <p>The number of lines, height and width can be adjusted to suit the artist's vision of the weaver.</p>
 <p><strong>Mathematical Operations</strong><br>
 These motifs can be repeated using the geometric operations of flipping and reflecting as well as stacking copies of the basic shape. Here are the basic reflections:</p>
-<p><img loading="lazy" decoding="async" class="aligncenter wp-image-5414 size-full" src="basket_figure_3.png" alt="" width="1300" height="800" srcset="basket_figure_3.png 1300w, basket_figure_3.png 300w, basket_figure_3.png 1024w, hbasket_figure_3.png 768w" sizes="(max-width: 1300px) 100vw, 1300px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter wp-image-5414 size-full" src="/assets/media/basket_figure_3.png" alt="" width="1300" height="800" srcset="/assets/media/basket_figure_3.png 1300w, /assets/media/basket_figure_3.png 300w, /assets/media/basket_figure_3.png 1024w, /assets/media/basket_figure_3.png 768w" sizes="(max-width: 1300px) 100vw, 1300px"></p>
 <p>Here are the basic stacking operations:</p>
-<p><img loading="lazy" decoding="async" class="aligncenter wp-image-5415 size-full" src="basket_figure_4.png" alt="" width="1600" height="640" srcset="basket_figure_4.png 1600w, basket_figure_4.png 300w, basket_figure_4.png 1024w, basket_figure_4.png 768w, basket_figure_4.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px"></p>
+<p><img loading="lazy" decoding="async" class="aligncenter wp-image-5415 size-full" src="/assets/media/basket_figure_4.png" alt="" width="1600" height="640" srcset="/assets/media/basket_figure_4.png 1600w, /assets/media/basket_figure_4.png 300w, /assets/media/basket_figure_4.png 1024w, /assets/media/basket_figure_4.png 768w, /assets/media/basket_figure_4.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px"></p>
 <p>Finally, these combined patterns can be woven into the shape of a basket, as in the graphical representation here. Notice we can have both rectangular and circular baskets of all sorts of shapes and sizes.</p>
 <p><iframe loading="lazy" id="igraph" class="post-img-shadow" style="border: none;" src="https://callysto.github.io/data-files/data-viz-of-the-week/coast-salish-baskets/SalishBasketLive.html" width="100%" height="600 " scrolling="no" seamless="seamless"></iframe></p>
 <p>Some questions you might like to explore with these visualizations:</p>
