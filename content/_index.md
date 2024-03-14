@@ -81,7 +81,6 @@ sections:
   #       - name: Swappable Blocks
   #         icon: rectangle-group
   #         description: Build your pages with blocks - no coding required!
-  <div style="background-color:rgba(0, 0, 0, 0.0470588)">
 
   - block: cta-image-paragraph
     id: resources
@@ -152,10 +151,9 @@ sections:
           button:
             text: Check out our blog posts
             url: https://imuniyat.github.io/callysto.github.io/blog/
-  </div>
     design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      css_class: "bg-gray-000 dark:bg-gray-900"
   - block: testimonials
     content:
       title: ""
