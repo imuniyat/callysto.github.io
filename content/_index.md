@@ -85,6 +85,8 @@ sections:
   - block: cta-image-paragraph
     id: resources
     design:
+      # For full-screen, add `min-h-screen` below
+      css_class: "dark"
       background:
         color: "navy"
       # Section background color (CSS class)
