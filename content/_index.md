@@ -81,9 +81,13 @@ sections:
   #       - name: Swappable Blocks
   #         icon: rectangle-group
   #         description: Build your pages with blocks - no coding required!
+  <div style="background-color:rgba(0, 0, 0, 0.0470588)">
 
   - block: cta-image-paragraph
     id: resources
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
     content:
       items:
         - title: Learning modules
@@ -137,7 +141,7 @@ sections:
             url: https://imuniyat.github.io/callysto.github.io/dataviz/
             #url: govt_funding.html
         - title: Blog posts
-          text: TBlog
+          text: Blog
           #feature_icon: check
           #features:
           #  - "Future-proof - edit your content in text files"
@@ -148,7 +152,7 @@ sections:
           button:
             text: Check out our blog posts
             url: https://imuniyat.github.io/callysto.github.io/blog/
-
+  </div>
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
