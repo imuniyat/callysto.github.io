@@ -49,23 +49,18 @@ sections:
         - statistic: "10K+"
           description: |
             Callysto Hub users
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: ["-2rem", 0, "-2rem", 0]
+
   - block: hero
-    content:
-      title: Teacher Resources
-      text: Data science resources
-      primary_action:
-        text: All resources
-        url: https://hugoblox.com/templates/
-        icon: rocket-launch
+      content:
+        title: Teacher Resources
+        text: Data science resources
+        primary_action:
+          text: All resources
+          url: https://hugoblox.com/templates/
+          icon: rocket-launch
+
   - block: stats
     content:
-    
       items:
         - statistic: ""
         - statistic: "Teacher Resources"
