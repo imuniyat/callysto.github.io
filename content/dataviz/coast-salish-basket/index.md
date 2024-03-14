@@ -9,20 +9,25 @@ date: 2023-09-24
 <p><b>Grades 5 - 9</b></p>
 
 <p>Weaving is a craft with a long history in many places around the world, including the Pacific Northwest. Woven baskets, in particular, have long been important practical and cultural objects for BC Coast Salish people. An important feature of woven baskets is the occurrence of beautiful geometric motifs/patterns, such as the ones on the basket below, exhibited at the <a href="https://moa.ubc.ca/" target="_blank" rel="noopener">Museum of Anthropology</a>.</p>
-<p><img loading="lazy" decoding="async" class=" wp-image-5412 aligncenter" src="coffee.jpg" alt="" width="387" height="337" srcset="basket_figure_1.jpeg 512w" sizes="(max-width: 387px) 100vw, 387px"></p>
+
+![Coast Salish basket](basket_figure_1.jpeg)
+
 <p>The motifs we observe on many Coast Salish baskets are highly regular and can be described very simply in terms of basic geometric shapes and mathematical operations.</p>
 <p><strong>Motifs</strong><br>
 The basic geometric shapes or motifs include broken lines, triangles, rectangles, and more. Here are three: the broken line, the atomic snake, and the triangle:</p>
-<!-- ![basket](basket_figure_2.png "testing image") -->
 
-![basket](basket_figure_2.png)
-<p><img loading="lazy" decoding="async" class="aligncenter wp-image-5413 size-large" src="/assets/media/basket_figure_2.png" alt="" width="1024" height="466" srcset="/assets/media/basket_figure_2.png 1024w, /assets/media/basket_figure_2.png 300w, /assets/media/basket_figure_2.png 768w, /assets/media/basket_figure_2.png 1536w, /assets/media/basket_figure_2.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></p>
+![Geometric motifs in baskets](basket_figure_2.png)
+
 <p>The number of lines, height and width can be adjusted to suit the artist's vision of the weaver.</p>
 <p><strong>Mathematical Operations</strong><br>
 These motifs can be repeated using the geometric operations of flipping and reflecting as well as stacking copies of the basic shape. Here are the basic reflections:</p>
-<p><img loading="lazy" decoding="async" class="aligncenter wp-image-5414 size-full" src="/assets/media/basket_figure_3.png" alt="" width="1300" height="800" srcset="/assets/media/basket_figure_3.png 1300w, /assets/media/basket_figure_3.png 300w, /assets/media/basket_figure_3.png 1024w, /assets/media/basket_figure_3.png 768w" sizes="(max-width: 1300px) 100vw, 1300px"></p>
+
+![Flipping and reflecting patterns](basket_figure_3.png)
+
 <p>Here are the basic stacking operations:</p>
-<p><img loading="lazy" decoding="async" class="aligncenter wp-image-5415 size-full" src="/assets/media/basket_figure_4.png" alt="" width="1600" height="640" srcset="/assets/media/basket_figure_4.png 1600w, /assets/media/basket_figure_4.png 300w, /assets/media/basket_figure_4.png 1024w, /assets/media/basket_figure_4.png 768w, /assets/media/basket_figure_4.png 1536w" sizes="(max-width: 1600px) 100vw, 1600px"></p>
+
+![Stacking geometric patterns](basket_figure_4.png)
+
 <p>Finally, these combined patterns can be woven into the shape of a basket, as in the graphical representation here. Notice we can have both rectangular and circular baskets of all sorts of shapes and sizes.</p>
 <p><iframe loading="lazy" id="igraph" class="post-img-shadow" style="border: none;" src="https://callysto.github.io/data-files/data-viz-of-the-week/coast-salish-baskets/SalishBasketLive.html" width="100%" height="600 " scrolling="no" seamless="seamless"></iframe></p>
 <p>Some questions you might like to explore with these visualizations:</p>
