@@ -60,39 +60,14 @@ sections:
     content:
       title: Teacher resources
       text: Data science resources for classroom
-      items:
-        - name: Data visualizations
-          icon: bolt
-          description: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
-          button:
-            text: Browse learning modules
-            url: https://imuniyat.github.io/callysto.github.io/learningmodule/
-  #       - name: Fast
-  #         icon: bolt
-  #         url: https://imuniyat.github.io/callysto.github.io/dataviz/
-  #         description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-  #       - name: Easy
-  #         icon: sparkles
-  #         description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-  #       - name: No-Code
-  #         icon: code-bracket
-  #         description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-  #       - name: Highly Rated
-  #         icon: star
-  #         description: Rated 5-stars by the community.
-  #       - name: Swappable Blocks
-  #         icon: rectangle-group
-  #         description: Build your pages with blocks - no coding required!
-
   - block: cta-image-paragraph
     id: resources
     design:
       # For full-screen, add `min-h-screen` below
-      css_class: "dark"
-      background:
-        color: "navy"
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
       # Section background color (CSS class)
-      #css_class: "bg-gray-100 dark:bg-gray-900"
+      css_class: "bg-gray-100 dark:bg-gray-900"
     content:
       items:
         - title: Learning modules
