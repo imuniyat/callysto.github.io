@@ -50,24 +50,6 @@ sections:
           description: |
             Callysto Hub users
 
-  - block: hero
-      content:
-        title: Teacher Resources
-        text: Data science resources
-        primary_action:
-          text: All resources
-          url: https://hugoblox.com/templates/
-          icon: rocket-launch
-
-  - block: stats
-    content:
-      items:
-        - statistic: ""
-        - statistic: "Teacher Resources"
-          description: |
-            Data science resources for classroom
-        - statistic: ""
-
   - block: cta-image-paragraph
     id: resources
     design:
