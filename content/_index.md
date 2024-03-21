@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "0rem"
 
 sections:
   - block: hero
@@ -63,7 +63,7 @@ sections:
       #   icon: rocket-launch
     design:
       spacing:
-        padding: ['20px', '0', '0', '0']
+        padding: ['40px', '0', '0', '0']
         margin: [0, 0, 0, 0]
         
   - block: cta-image-paragraph
