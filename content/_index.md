@@ -49,6 +49,10 @@ sections:
         - statistic: "10K+"
           description: |
             Callysto Hub users
+    design:
+      spacing:
+        padding: ['-500px', '0', '-500px', '0']
+        margin: [0, 0, 0, 0]
   - block: hero
     content:
       title: Teacher resources
