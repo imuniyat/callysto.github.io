@@ -53,7 +53,7 @@ sections:
       spacing:
         padding: ['0', '0', '0', '0']
         margin: [0, 0, 0, 0]
-  - block: hero
+  - block: title
     content:
       title: Teacher resources
       text: Free data science resources for K-12 teachers and students
