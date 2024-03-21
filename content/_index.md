@@ -69,7 +69,7 @@ sections:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
       spacing:
-        padding: [-200, 0, -200, 0]
+        padding: [-1000, 0, -1000, 0]
     content:
       items:
         - title: Learning modules
