@@ -146,7 +146,7 @@ sections:
     id: about
     content:
       title: '<h1 style="font-size:40px; text-align: center;">About</h1>'
-      text: '<p style="font-size:25px; text-align: center;">Callysto is a free, online learning tool that helps Grades 5-12 students and teachers learn and apply in-demand data science skills including data analysis and visualization, coding, and computational thinking. Our interactive learning modules are available in a variety of subjects – from math to history – and are aligned with existing curriculum.</p>
+      text: '<p style="font-size:25px; max-width:800px, text-align: center;">Callysto is a free, online learning tool that helps Grades 5-12 students and teachers learn and apply in-demand data science skills including data analysis and visualization, coding, and computational thinking. Our interactive learning modules are available in a variety of subjects – from math to history – and are aligned with existing curriculum.</p>
       
       <p>Our mission is to foster computational thinking and data literacy skills in Canadian schools.</p>
       
@@ -155,7 +155,7 @@ sections:
       spacing:
         padding: ['40px', '0', '0', '0']
         margin: [0, 0, 0, 0]
-        
+
   - block: testimonials
     content:
       title: ""
