@@ -54,6 +54,7 @@ sections:
         padding: ['0', '0', '0', '0']
         margin: [0, 0, 0, 0]
   - block: markdown
+    id: resources
     content:
       title: '<h1 style="font-size:40px; text-align: center;">Teacher Resources</h1>'
       text: '<h1 style="font-size:25px; text-align: center;">Free data science resources for K-12 teachers and students</h1>'
@@ -67,7 +68,6 @@ sections:
         margin: [0, 0, 0, 0]
         
   - block: cta-image-paragraph
-    id: resources
     design:
       # For full-screen, add `min-h-screen` below
       # Section background color (CSS class)
@@ -141,6 +141,21 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-000 dark:bg-gray-900"
+
+  - block: markdown
+    id: about
+    content:
+      title: '<h1 style="font-size:40px; text-align: center;">About</h1>'
+      text: '<p style="font-size:25px; text-align: center;">Callysto is a free, online learning tool that helps Grades 5-12 students and teachers learn and apply in-demand data science skills including data analysis and visualization, coding, and computational thinking. Our interactive learning modules are available in a variety of subjects – from math to history – and are aligned with existing curriculum.</p>
+      
+      <p>Our mission is to foster computational thinking and data literacy skills in Canadian schools.</p>
+      
+      <p>The Callysto program is facilitated by the non-profit organizations Cybera and the Pacific Institute for the Mathematical Sciences. It is funded under the national CanCode program.</p>'
+    design:
+      spacing:
+        padding: ['40px', '0', '0', '0']
+        margin: [0, 0, 0, 0]
+        
   - block: testimonials
     content:
       title: ""
