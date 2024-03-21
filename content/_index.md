@@ -60,7 +60,7 @@ sections:
     design:
       spacing:
         padding: [0, 0, 0, 0]
-        margin: [-20, -50, -20, -50]
+        margin: [0, 0, 0, 0]
 
   - block: cta-image-paragraph
     id: resources
