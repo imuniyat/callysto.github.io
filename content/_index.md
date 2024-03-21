@@ -56,7 +56,7 @@ sections:
   - block: markdown
     content:
       title: Teacher resources
-      text: Free data science resources for K-12 teachers and students
+      text: '<h1>Free data science resources for K-12 teachers and students</h1>'
       # primary_action:
       #   text: Get Started
       #   url: https://hugoblox.com/templates/
