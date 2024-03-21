@@ -51,7 +51,7 @@ sections:
             Callysto Hub users
     design:
       spacing:
-        padding: ['-500px', '0', '-500px', '0']
+        padding: ['0', '0', '0', '0']
         margin: [0, 0, 0, 0]
   - block: hero
     content:
@@ -63,7 +63,7 @@ sections:
       #   icon: rocket-launch
     design:
       spacing:
-        padding: ['500px', '0', '500px', '0']
+        padding: ['0', '0', '0', '0']
         margin: [0, 0, 0, 0]
         
   - block: cta-image-paragraph
@@ -73,7 +73,7 @@ sections:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
       spacing:
-        padding: ['500px', '0', '500px', '0']
+        padding: ['0', '0', '0', '0']
     content:
       items:
         - title: Learning modules
