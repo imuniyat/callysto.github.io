@@ -59,8 +59,8 @@ sections:
       #   icon: rocket-launch
     design:
       spacing:
-        padding: [-200, 0, -200, 0]
-        margin: [-200, 0, -200, 0]
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
 
   - block: cta-image-paragraph
     id: resources
@@ -69,7 +69,7 @@ sections:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [-200, 0, -200, 0]
     content:
       items:
         - title: Learning modules
