@@ -61,7 +61,12 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-
+  - block: text
+    content:
+      text: "Title"
+    design:
+      spacing:
+        padding: [10, 0, 10, 0]  # Adjust these values as needed for spacing
   - block: cta-image-paragraph
     id: resources
     design:
@@ -69,7 +74,7 @@ sections:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
       spacing:
-        padding: [-1000, 0, -1000, 0]
+        padding: [0, 0, 0, 0]
     content:
       items:
         - title: Learning modules
