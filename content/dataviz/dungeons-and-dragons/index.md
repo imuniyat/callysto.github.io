@@ -1,6 +1,6 @@
 ---
 title: How to create the best Dungeons & Dragons character
-date: 2023-06-18
+date: 2023-04-18
 ---
 <h2>From Paladins to Warlocks: which Dungeons & Dragons class will rule them all?</h2>
 
