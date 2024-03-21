@@ -49,6 +49,18 @@ sections:
         - statistic: "10K+"
           description: |
             Callysto Hub users
+  - block: hero
+    content:
+      title: Teacher resources
+      text: Free data science resources for K-12 teachers and students
+      # primary_action:
+      #   text: Get Started
+      #   url: https://hugoblox.com/templates/
+      #   icon: rocket-launch
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [-20, -50, -20, -50]
 
   - block: cta-image-paragraph
     id: resources
