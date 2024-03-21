@@ -55,15 +55,15 @@ sections:
         margin: [0, 0, 0, 0]
   - block: markdown
     content:
-      title: Teacher resources
-      text: '<h1 style="font-size:25px;">Free data science resources for K-12 teachers and students</h1>'
+      title: '<h1 style="font-size:40px; text-align: center;">Teacher Resources</h1>'
+      text: '<h1 style="font-size:25px; text-align: center;">Free data science resources for K-12 teachers and students</h1>'
       # primary_action:
       #   text: Get Started
       #   url: https://hugoblox.com/templates/
       #   icon: rocket-launch
     design:
       spacing:
-        padding: ['0', '0', '0', '0']
+        padding: ['20px', '0', '0', '0']
         margin: [0, 0, 0, 0]
         
   - block: cta-image-paragraph
