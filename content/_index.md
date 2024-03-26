@@ -99,7 +99,7 @@ sections:
           image: social-media.png
           button:
             text: Browse learning modules
-            url: https://imuniyat.github.io/callysto.github.io/omputational-thinking-tests/
+            url: https://imuniyat.github.io/callysto.github.io/learningmodule/
         - title: Lesson plans
           text: We designed lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources -
           feature_icon: bolt
