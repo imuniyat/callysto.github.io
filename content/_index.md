@@ -88,7 +88,7 @@ sections:
           image: computational_thinking.png
           button:
             text: Access computational thinking tests
-            url: https://imuniyat.github.io/callysto.github.io/ct/
+            url: https://imuniyat.github.io/callysto.github.io/computationalthinkingtests/
         # LEARNING MODULES
         - title: Learning modules
           text: We designed learning modules to __________
