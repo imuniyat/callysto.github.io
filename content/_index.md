@@ -85,10 +85,10 @@ sections:
           #   - "b"
           #   - "c"
           #Upload image to `assets/media/` and reference the filename here
-          image: Computational_thinking.png
+          image: computational_thinking.png
           button:
             text: Access computational thinking tests
-            url: https://imuniyat.github.io/callysto.github.io/computationalthinkingtests/
+            url: https://imuniyat.github.io/callysto.github.io/ct/
         # LEARNING MODULES
         - title: Learning modules
           text: We designed learning modules to __________

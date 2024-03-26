@@ -42,9 +42,9 @@ cascade:
 ############################
 
 cascade:
-  # COMP THINKING options
+  # CT options
   - _target:
-      path: /computationalthinkingtests/**
+      path: /ct/**
       kind: page
     pager: true
     editable: true
@@ -61,10 +61,10 @@ cascade:
         enable: true
   # Data viz section options
   - _target:
-      path: /computationalthinkingtests/*
+      path: /ct/*
       kind: section
     # Change url to /dataviz/
-    url: /computationalthinkingtests/
+    url: /ct/
     # Set the listing view
     view: date-title-summary
 ############################
@@ -243,7 +243,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>ß
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  computationalthinkingtests: '/computationalthinkingtests/:slug/'
+  ct: '/ct/:slug/'
   learningmodule: '/learningmodule/:slug/'
   lessonplans: '/lessonplan/:slug/'
   dataviz: '/dataviz/:slug/'
