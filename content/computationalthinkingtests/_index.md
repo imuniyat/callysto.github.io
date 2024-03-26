@@ -2,7 +2,7 @@
 title: Computational thinking test
 ---
 
-<h2 style="text-align: center;">What is Computational Thinking?</h2>
+<h2>What is Computational Thinking?</h2>
 <p>Computational thinking is the ability to solve problems by learning to think like a computer or a computer scientist. This involves analyzing a complex problem, developing possible solutions to the problem, and formatting the solutions so that they can be carried out by a computer (or a human). One example of computational thinking is baking a cake.</p>
 <p>The core components of computational are:</p>
 <ol>
@@ -15,7 +15,7 @@ title: Computational thinking test
 
 Image courtesy of <a href="https://barefootcas.org.uk/" target="_blank" rel="noopener noreferrer">Barefoot Computing</a>
 
-<h2 style="text-align: center;">How Can You Assess Computational Thinking?</h2>
+<h2>How Can You Assess Computational Thinking?</h2>
 <p>We have two computational thinking tests designed for Grades 5-12 teachers and students. The tests were developed with the support of the Callysto Project and the Government of Canada (Innovation, Science and Economic Development Canada) CanCode program.</p>
 <p>Researchers can freely use the tests to track and analyze changes in computational thinking among teachers and students, and publish their results (please see the proper citations at the end of each test). Teachers are also welcome to use these tests, however, if you wish to use these instruments, then you must develop your own answer key.</p>
 
