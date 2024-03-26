@@ -88,7 +88,8 @@ sections:
           image: computational_thinking.png
           button:
             text: Access computational thinking tests
-            url: https://imuniyat.github.io/callysto.github.io/computational-thinking-tests/
+            url: <a href="https://imuniyat.github.io/callysto.github.io/computational-thinking-tests/" target="_blank"></a>
+            #url: https://imuniyat.github.io/callysto.github.io/computational-thinking-tests/
     # LEARNING MODULES
         - title: Learning modules
           text: We designed learning modules to __________
@@ -131,7 +132,7 @@ sections:
             url: https://imuniyat.github.io/callysto.github.io/dataviz/
             #url: govt_funding.html
       # STARTER KIT & ONLINE COURSES
-        - title: STARTER KIT AND ONLINE COURSES
+        - title: Starter kit and online courses
           text: To get you started with integrating Callysto data science into your classroom, we have free teacher starter kit and online courses.
           feature_icon: bolt
           features:
