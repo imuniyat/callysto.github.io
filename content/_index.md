@@ -89,7 +89,7 @@ sections:
           button:
             text: Access computational thinking tests
             url: https://imuniyat.github.io/callysto.github.io/computational-thinking-tests/
-        # LEARNING MODULES
+    # LEARNING MODULES
         - title: Learning modules
           text: We designed learning modules to __________
           feature_icon: bolt
@@ -102,6 +102,7 @@ sections:
           button:
             text: Browse learning modules
             url: https://imuniyat.github.io/callysto.github.io/learningmodule/
+      # LESSON PLANS
         - title: Lesson plans
           text: We designed lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources -
           feature_icon: bolt
@@ -114,18 +115,7 @@ sections:
           button:
             text: Browse lesson plans
             url: https://imuniyat.github.io/callysto.github.io/lessonplan/
-        - title: Learning modules
-          text: We designed learning modules to __________
-          feature_icon: bolt
-          features:
-            - "a"
-            - "b"
-            - "c"
-          # Upload image to `assets/media/` and reference the filename here
-          image: social-media.png
-          button:
-            text: Browse learning modules
-            url: https://imuniyat.github.io/callysto.github.io/learningmodule/
+      # DATA VISUALIZATIONS
         - title: Data visualizations
           text: These pre-made, introductory data science lessons are a way for students to develop critical thinking and problem solving skills. We start with a question, find an open dataset to answer the question, and then ask students to reflect.
           #feature_icon: check
@@ -140,6 +130,22 @@ sections:
             #url: ../assets/media/example.html
             url: https://imuniyat.github.io/callysto.github.io/dataviz/
             #url: govt_funding.html
+      # STARTER KIT & ONLINE COURSES
+        - title: STARTER KIT AND ONLINE COURSES
+          text: To get you started with integrating Callysto data science into your classroom, we have free teacher starter kit and online courses.
+          feature_icon: bolt
+          features:
+            - "Teacher starter kit"
+            - "Computing Science 10 course"
+            - "Callysto artificial intelligence course"
+            - "Computational thinking course"
+            - "Callysto data science course"
+          # Upload image to `assets/media/` and reference the filename here
+          image: social-media.png
+          button:
+            text: Browse learning modules
+            url: https://imuniyat.github.io/callysto.github.io/distance-learning/
+        
         - title: Blog posts
           text: Blog
           #feature_icon: check
