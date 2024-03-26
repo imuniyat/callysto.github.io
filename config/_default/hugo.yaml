@@ -64,7 +64,7 @@ cascade:
       path: /computationalthinkingtests/*
       kind: section
     # Change url to /dataviz/
-    url: /computational-thinking-tests/
+    url: /computationalthinkingtests/
     # Set the listing view
     view: date-title-summary
 ############################
@@ -243,7 +243,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>ß
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  computationalthinkingtests: '/computational-thinking-tests/:slug/'
+  computationalthinkingtests: '/computationalthinkingtests/:slug/'
   learningmodule: '/learningmodule/:slug/'
   lessonplans: '/lessonplan/:slug/'
   dataviz: '/dataviz/:slug/'

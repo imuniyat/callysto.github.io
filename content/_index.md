@@ -76,18 +76,18 @@ sections:
         padding: ['0', '0', '0', '0']
     content:
       items:
-        # - title: Computational thinking tests
-        #   text: We have two computational thinking tests designed for Grades 5-12 teachers and students.
-        #   # feature_icon: bolt
-        #   # features:
-        #   #   - "a"
-        #   #   - "b"
-        #   #   - "c"
-        #   # Upload image to `assets/media/` and reference the filename here
-        #   image: Computational_thinking.png
-        #   button:
-        #     text: Access computational thinking tests
-        #     url: https://imuniyat.github.io/callysto.github.io/computational-thinking-tests/
+        - title: Computational thinking tests
+          text: We have two computational thinking tests designed for Grades 5-12 teachers and students.
+          # feature_icon: bolt
+          # features:
+          #   - "a"
+          #   - "b"
+          #   - "c"
+          # Upload image to `assets/media/` and reference the filename here
+          image: Computational_thinking.png
+          button:
+            text: Access computational thinking tests
+            url: https://imuniyat.github.io/callysto.github.io/computationalthinkingtests/
         - title: Learning modules
           text: We designed learning modules to __________
           feature_icon: bolt
