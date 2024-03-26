@@ -38,6 +38,36 @@ cascade:
     view: date-title-summary
 
 ############################
+## COMPUTATIONAL THINKING PAGE OPTIONS
+############################
+
+cascade:
+  # COMP THINKING options
+  - _target:
+      path: /computational-thinking-tests/**
+      kind: page
+    pager: true
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on dataviz post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
+  # Data viz section options
+  - _target:
+      path: /computational-thinking-tests/*
+      kind: section
+    # Change url to /dataviz/
+    url: /computational-thinking-tests/
+    # Set the listing view
+    view: date-title-summary
+############################
 ## DATA VIZ PAGE OPTIONS
 ############################
 
@@ -130,6 +160,67 @@ cascade:
     # Set the listing view
     view: date-title-summary
 ############################
+## ONLINE COURSES PAGE OPTIONS
+############################
+
+cascade:
+  # online courses options
+  - _target:
+      path: /distance-learning/**
+      kind: page
+    pager: true
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on online courses post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
+  # Data viz section options
+  - _target:
+      path: /distance-learning/*
+      kind: section
+    # Change url to /dataviz/
+    url: /distance-learning/
+    # Set the listing view
+    view: date-title-summary
+
+############################
+## ADDITIONAL RESOURCES PAGE OPTIONS
+############################
+
+cascade:
+  # ADDITIONAL resources courses options
+  - _target:
+      path: /additional-resources/**
+      kind: page
+    pager: true
+    editable: true
+    hide_date: false
+    show_date_updated: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    share: true
+    # Just use Breadcrumb for navigation on online courses post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
+  # Data viz section options
+  - _target:
+      path: /additional-resources/*
+      kind: section
+    # Change url to /dataviz/
+    url: /additional-resources/
+    # Set the listing view
+    view: date-title-summary
+############################
 ## LANGUAGE
 ############################
 
@@ -152,10 +243,13 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>ß
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  dataviz: '/dataviz/:slug/'
-  lessonplans: '/lessonplan/:slug/'
+  computational-thinking-tests: '/computational-thinking-tests/:slug/'
   learningmodule: '/learningmodule/:slug/'
+  lessonplans: '/lessonplan/:slug/'
+  dataviz: '/dataviz/:slug/'
+  distance-learning: '/distance-learning/:slug'
   blog: '/blog/:slug/'
+  additional-resources: '/additional-resources/:slug/'
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'

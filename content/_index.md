@@ -76,6 +76,18 @@ sections:
         padding: ['0', '0', '0', '0']
     content:
       items:
+        - title: Computational thinking tests
+          text: We have two computational thinking tests designed for Grades 5-12 teachers and students.
+          # feature_icon: bolt
+          # features:
+          #   - "a"
+          #   - "b"
+          #   - "c"
+          # Upload image to `assets/media/` and reference the filename here
+          image: Computational_thinking_-02.png
+          button:
+            text: Access computational thinking tests
+            url: https://imuniyat.github.io/callysto.github.io/computational-thinking-tests/
         - title: Learning modules
           text: We designed learning modules to __________
           feature_icon: bolt
@@ -87,7 +99,7 @@ sections:
           image: social-media.png
           button:
             text: Browse learning modules
-            url: https://imuniyat.github.io/callysto.github.io/learningmodule/
+            url: https://imuniyat.github.io/callysto.github.io/omputational-thinking-tests/
         - title: Lesson plans
           text: We designed lesson plans to solve a variety of problems (including TED-Ed Riddles) using Python code in Jupyter notebooks. For each problem, there are three resources -
           feature_icon: bolt
