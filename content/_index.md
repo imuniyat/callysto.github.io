@@ -88,7 +88,7 @@ sections:
           image: computational_thinking.png
           button:
             text: Access computational thinking tests
-            url: '<a href="https://imuniyat.github.io/callysto.github.io/computational-thinking-tests/" target="_blank"></a>'
+            url: 'href="https://imuniyat.github.io/callysto.github.io/computational-thinking-tests/" target="_blank"'
             #url: https://imuniyat.github.io/callysto.github.io/computational-thinking-tests/
     # LEARNING MODULES
         - title: Learning modules
