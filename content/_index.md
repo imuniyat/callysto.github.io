@@ -40,15 +40,15 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1.3M+"
+        - statistic: "160K+"
           description: |
             Students trained
-        - statistic: "5K+"
+        - statistic: "6K+"
           description: |
             Teachers trained
-        - statistic: "10K+"
-          description: |
-            Callysto Hub users
+        # - statistic: "10K+"
+        #   description: |
+        #     Callysto Hub users
     design:
       spacing:
         padding: ['0', '0', '0', '0']
