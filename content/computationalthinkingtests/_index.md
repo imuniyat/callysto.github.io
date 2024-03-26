@@ -19,5 +19,5 @@ Image courtesy of <a href="https://barefootcas.org.uk/" target="_blank" rel="noo
 <p>We have two computational thinking tests designed for Grades 5-12 teachers and students. The tests were developed with the support of the Callysto Project and the Government of Canada (Innovation, Science and Economic Development Canada) CanCode program.</p>
 <p>Researchers can freely use the tests to track and analyze changes in computational thinking among teachers and students, and publish their results (please see the proper citations at the end of each test). Teachers are also welcome to use these tests, however, if you wish to use these instruments, then you must develop your own answer key.</p>
 
-<h2 class="fl-cta-title">Want to Participate in Callysto’s Classroom Research Study?</h2>
+<h2>Want to Participate in Callysto’s Classroom Research Study?</h2>
 <p>If you're interested in using Callysto to teach data science and computational thinking in your classroom, and would be willing to contribute to a study about its effectiveness, fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdCfVkdyrv_-c0zKTrE969dOcax4ze4ZOWGOxMP_xHov6OOiw/viewform">research study form</a>.</p>
