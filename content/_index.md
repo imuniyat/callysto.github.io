@@ -79,12 +79,12 @@ sections:
       items:
         - title: Computational thinking tests
           text: We have two computational thinking tests designed for Grades 5-12 teachers and students.
-          feature_icon: bolt
-          features:
-            - "a"
-            - "b"
-            - "c"
-          Upload image to `assets/media/` and reference the filename here
+          # feature_icon: bolt
+          # features:
+          #   - "a"
+          #   - "b"
+          #   - "c"
+          #Upload image to `assets/media/` and reference the filename here
           image: Computational_thinking.png
           button:
             text: Access computational thinking tests
