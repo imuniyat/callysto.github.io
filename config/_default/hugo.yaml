@@ -44,7 +44,7 @@ cascade:
 cascade:
   # COMP THINKING options
   - _target:
-      path: /computational-thinking-tests/**
+      path: /computationalthinkingtests/**
       kind: page
     pager: true
     editable: true
@@ -61,7 +61,7 @@ cascade:
         enable: true
   # Data viz section options
   - _target:
-      path: /computational-thinking-tests/*
+      path: /computationalthinkingtests/*
       kind: section
     # Change url to /dataviz/
     url: /computational-thinking-tests/
@@ -243,7 +243,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>ß
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  computational-thinking-tests: '/computational-thinking-tests/:slug/'
+  computationalthinkingtests: '/computational-thinking-tests/:slug/'
   learningmodule: '/learningmodule/:slug/'
   lessonplans: '/lessonplan/:slug/'
   dataviz: '/dataviz/:slug/'
